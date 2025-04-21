@@ -53,3 +53,13 @@ Desenvolvimento de uma aplicação web funcional com upload de arquivos, persist
 Realização de deploy completo em ambiente cloud-native, utilizando práticas modernas de desenvolvimento em nuvem.
 
 Criação de uma solução end-to-end, com backend em contêiner, armazenamento cloud e monitoramento integrado.
+
+![image](https://github.com/user-attachments/assets/2b8cbddb-bf21-4c1b-a538-d48fe6ae2261)
+![image](https://github.com/user-attachments/assets/8277413d-cef5-44e4-9699-059067ebad0a)
+![image](https://github.com/user-attachments/assets/2f9ef683-a226-451c-b7b7-83fee108aa15)
+![image](https://github.com/user-attachments/assets/4001cea0-8e47-4f1d-bf9f-5b721bd662d5)
+![image](https://github.com/user-attachments/assets/b08d1a86-2703-438b-ad04-9b47cb8942a5)
+
+
+
+
