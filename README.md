@@ -60,7 +60,7 @@ Criação de uma solução end-to-end, com backend em contêiner, armazenamento 
 ![image](https://github.com/user-attachments/assets/4001cea0-8e47-4f1d-bf9f-5b721bd662d5)
 ![image](https://github.com/user-attachments/assets/b08d1a86-2703-438b-ad04-9b47cb8942a5)
 
-Code:
+Script:
 
 import streamlit as st
 from azure.storage.blob import BlobServiceClient
